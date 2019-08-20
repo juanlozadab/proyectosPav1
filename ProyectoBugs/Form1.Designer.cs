@@ -6,7 +6,7 @@
         /// Variable del diseñador requerida.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-
+        /// probando github
         /// <summary>
         /// Limpiar los recursos que se estén utilizando.
         /// </summary>
